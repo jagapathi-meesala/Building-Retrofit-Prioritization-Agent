@@ -1,0 +1,7 @@
+name: rank-retrofits
+description: Assess and rank a list of building retrofit candidates.
+inputs:
+  - buildings
+outputs:
+  - ranked_buildings
+  - validation_errors

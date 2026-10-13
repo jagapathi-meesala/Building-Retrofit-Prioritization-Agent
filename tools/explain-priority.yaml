@@ -1,0 +1,8 @@
+name: explain-priority
+description: Explain the main factors contributing to a building's screening priority.
+inputs:
+  - assessment
+outputs:
+  - main_drivers
+  - warnings
+  - human_review

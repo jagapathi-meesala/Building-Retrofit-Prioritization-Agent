@@ -1,0 +1,28 @@
+{
+  "buildings": [
+    {
+      "building_id": "BLDG-101",
+      "condition": 5,
+      "annual_energy_kwh_m2": 280,
+      "occupancy_importance": 5,
+      "feasibility": 3,
+      "data_source": "illustrative facilities register"
+    },
+    {
+      "building_id": "BLDG-102",
+      "condition": 3,
+      "annual_energy_kwh_m2": 190,
+      "occupancy_importance": 4,
+      "feasibility": 4,
+      "data_source": "illustrative energy report"
+    },
+    {
+      "building_id": "BLDG-103",
+      "condition": 2,
+      "annual_energy_kwh_m2": 90,
+      "occupancy_importance": 2,
+      "feasibility": 5,
+      "data_source": "illustrative building survey"
+    }
+  ]
+}

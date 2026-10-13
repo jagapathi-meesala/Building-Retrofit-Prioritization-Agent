@@ -1,0 +1,23 @@
+spec_version: "0.1.0"
+name: building-retrofit-prioritization-agent
+version: "1.0.0"
+description: "Ranks building retrofit candidates using transparent condition, energy, safety, and feasibility indicators."
+author: jagapathi-meesala
+license: MIT
+skills:
+  - retrofit-assessment
+  - energy-efficiency-screening
+  - project-prioritization
+tools:
+  - assess-building
+  - rank-retrofits
+  - explain-priority
+runtime:
+  max_turns: 5
+  temperature: 0.2
+  timeout: 30
+tags:
+  - buildings
+  - energy-efficiency
+  - retrofit
+  - prioritization

@@ -1,0 +1,12 @@
+name: assess-building
+description: Validate one building record and calculate its preliminary retrofit screening score.
+inputs:
+  - building_id
+  - condition
+  - annual_energy_kwh_m2
+  - occupancy_importance
+  - feasibility
+outputs:
+  - priority_score
+  - component_scores
+  - warnings
